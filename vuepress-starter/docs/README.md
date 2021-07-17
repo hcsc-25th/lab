@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://hcsc-25th.github.io/s/img/profilePicture-20210612-nobackground.png
+heroImage: https://hcsc-25th.github.io/about/img/hcsc-lab-logo.png
 heroText: HCSC LAB 竹中科研25屆
 tagline: 好玩又有趣的科學知識和科學實驗在竹中科研！
 actionText: 馬上看實驗 →
