@@ -8,6 +8,7 @@
   <meta name="description" content="HCSC LAB 竹中科研實驗室 | 好玩又有趣的科學知識和科學實驗在竹中科研實驗室！ ">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@markbattistella/docsify-charty@latest/dist/docsify-charty.min.css">
 </head>
 <body>
   <div id="app"></div>
@@ -18,6 +19,7 @@
       coverpage: true,
       loadSidebar: true,
       loadNavbar: true,
+      loadFooter: true,
       hideSidebar: false,
       subMaxLevel: 2,
       auto2top: true,
@@ -31,6 +33,22 @@
         crossChapter: true,
         crossChapterText: true,
       },
+      share: {
+        reddit: true,
+        linkedin: true,
+        facebook: true,
+        twitter: true,
+        telegram: true,
+        options: {
+          theme: 'slide-bar'
+        }
+      },
+      customPageTitle: {
+        prefix: false,
+        suffix: '竹中科研實驗室',
+        seprator: ' | ',
+        debug: false,
+      }
     }
   </script>
   <!-- Docsify v4 -->
@@ -38,5 +56,9 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/@markbattistella/docsify-charty@latest"></script>
+  <script src="//cdn.jsdelivr.net/npm/@sujaykumarh/docsify-plugin-title@1.x/dist/plugin.min.js"></script>
 </body>
 </html>
