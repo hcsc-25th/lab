@@ -1,0 +1,15 @@
+{
+  "name": "HCSC LAB",
+  "short_name": "25+LAB",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://hcsc-25th.github.io/about/img/hcsc-lab-logo.png",
+      "type": "image/png",
+      "sizes": "500x500"
+    }
+  ],
+  "start_url": "/lab/",
+  "background_color": "#FFFFFF",
+  "display": "standalone"
+}
