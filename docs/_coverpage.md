@@ -1,4 +1,4 @@
-![logo](https://hcsc-25th.github.io/about/img/hcsc-lab-logo.png ':size=160')
+![logo](https://hcsc-25th.github.io/about/img/hcsc-lab-logo-circle.png ':size=160')
 
 # HCSC LAB 竹中科研實驗室
 
