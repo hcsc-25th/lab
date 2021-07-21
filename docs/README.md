@@ -7,4 +7,5 @@
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |科學相關的冷知識|有趣的簡單小實驗|科學史上重大發現 |
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/UGW7ku2"  ><a href="//imgur.com/a/UGW7ku2">竹中科研實驗室</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[物理總是讓你內心受創？我們來聊「熵」](/trivia/11007-A1-1)
+![A1-1](https://i.imgur.com/mnSTEb4.png)
