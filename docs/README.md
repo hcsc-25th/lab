@@ -12,3 +12,6 @@
 
 [惰性氣體，真的如其名一樣懶惰嗎？](/trivia/11007-A1-2)
 ![A1-2](https://i.imgur.com/NiUTU0d.png)
+
+[統一電、磁與光學的方程式](/turning-point/11007-A2-2)
+![A2-2](https://i.imgur.com/ZUyXP2l.png)
