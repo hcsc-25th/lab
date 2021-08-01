@@ -15,3 +15,6 @@
 
 [統一電、磁與光學的方程式](/turning-point/11007-A2-2)
 ![A2-2](https://i.imgur.com/ZUyXP2l.png)
+
+[近在咫尺卻又形同夢想的太空旅行](/trivia/11007-A2-1)
+![A2-1](https://i.imgur.com/6bWOi9u.png)
