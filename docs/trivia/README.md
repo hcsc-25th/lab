@@ -9,3 +9,6 @@
 
 [近在咫尺卻又形同夢想的太空旅行](/trivia/11007-A2-1)
 ![A2-1](https://i.imgur.com/6bWOi9u.png)
+
+[電影中的多元宇宙是否存在於現實](/trivia/11007-A3-2)
+![A3-2](https://i.imgur.com/t7RdMhQ.png)
