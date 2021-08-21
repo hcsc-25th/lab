@@ -21,3 +21,6 @@
 
 [電影中的多元宇宙是否存在於現實](/trivia/11007-A3-2)
 ![A3-2](https://i.imgur.com/t7RdMhQ.png)
+
+[有機無機、傻傻分不清？](/turning-point/11007-A3-1)
+![A3-1](https://i.imgur.com/FGGR7UF.png)
