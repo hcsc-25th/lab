@@ -2,6 +2,8 @@
 * [問題及意見回應](https://forms.office.com/r/5cA6ku3KfB)
 
 * [**有趣小實驗**](/experiment/)
+** [科研實驗室手作 點銅成金](/experiment/video-experiment-001)
+** [科研實驗室手作 大象牙膏](/experiment/video-experiment-002)
 
 * [**科學冷知識**](/trivia/)
 ** [物理總是讓你內心受創？我們來聊「熵」](/trivia/11007-A1-1)
