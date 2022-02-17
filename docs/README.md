@@ -27,3 +27,6 @@
 
 [有機無機、傻傻分不清？](/turning-point/11007-A3-1)
 ![A3-1](https://i.imgur.com/FGGR7UF.png)
+
+[咖啡的香氣從哪來](/trivia/11007-A5-1)
+![A5-1](https://i.imgur.com/1lu5brh.png)
