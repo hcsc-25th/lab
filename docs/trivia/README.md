@@ -14,4 +14,4 @@
 ![A3-2](https://i.imgur.com/t7RdMhQ.png)
 
 [咖啡的香氣從哪來](/trivia/11007-A5-1)
-![A5-1](https://i.imgur.com/1lu5brh.png)
+![A5-1](https://i.imgur.com/4z8h9b9.png)
